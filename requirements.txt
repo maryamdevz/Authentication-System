@@ -1,0 +1,9 @@
+fastapi[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+pwdlib[argon2]
+pwdlib
+jwt
+pyjwt
